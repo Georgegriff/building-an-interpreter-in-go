@@ -16,6 +16,10 @@ const (
 	INT    = "INT"   // 1343456
 	STRING = "STRING"
 
+	// Arrays
+	LBRACKET = "["
+	RBRACKET = "]"
+
 	// Operators
 	ASSIGN   = "="
 	PLUS     = "+"
